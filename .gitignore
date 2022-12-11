@@ -2,5 +2,7 @@ errors.txt
 log.txt
 .vscode/settings.json
 **.rpyb
+**.rpc
 **.pyc
 **.save
+.vscode
