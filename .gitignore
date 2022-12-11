@@ -1,3 +1,6 @@
 errors.txt
 log.txt
 .vscode/settings.json
+**.rpyb
+**.pyc
+**.save
